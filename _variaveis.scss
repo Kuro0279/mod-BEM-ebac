@@ -1,0 +1,11 @@
+$cor__fundo: #FFF;
+
+
+$cor__letra: rgb(128, 0, 128);
+$cor__link: rgb(242, 163, 94);
+$tamanho__letra: 5w;
+$tamanho__letra-menor: calc($tamanho__letra/2);
+$tamanho__letra-ainda-menor: calc($tamanho__letra-menor/2);
+$tamanho__imagem: 20vh;
+$tamanho__imagem-menor: calc($tamanho__imagem + ($tamanho__imagem/4)); /* Cálculo utilizado para obter 25% do tamanho original e somá-lo */
+$tamanho__section: 90vw;
